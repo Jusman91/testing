@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActionsOnSave": {
+    "source.fixAll": true
+    }
+}
